@@ -7,7 +7,7 @@ A decoupled full-stack notes management application built with **MongoDB, Expres
 - **Name:** Kyatheshwar Guduri
 - **Student ID:** 2026201009
 - **Email:** kyatheshwar.guduri@gmail.com
-- **GitHub Repository:** _\<https://github.com/kyatheshwar/2026201009_MERN_Lab\>_
+- **GitHub Repository:** https://github.com/kyatheshwar/2026201009_MERN_Lab
 
 ## Tech Stack
 
